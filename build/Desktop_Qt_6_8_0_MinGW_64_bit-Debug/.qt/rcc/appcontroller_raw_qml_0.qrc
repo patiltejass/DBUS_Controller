@@ -1,6 +1,0 @@
-<RCC>
-  <qresource prefix="/qt/qml/controller/">
-    <file alias="Main.qml">D:/Delta/DBUS/controller/Main.qml</file>
-  </qresource>
-</RCC>
-
