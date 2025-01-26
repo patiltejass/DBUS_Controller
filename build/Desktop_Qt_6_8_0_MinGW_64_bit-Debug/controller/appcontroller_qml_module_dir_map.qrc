@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="/">
+    <file alias="/qt/qml/controller">D:/Delta/DBUS/controller/build/Desktop_Qt_6_8_0_MinGW_64_bit-Debug/controller</file>
+
+  </qresource>
+</RCC>
